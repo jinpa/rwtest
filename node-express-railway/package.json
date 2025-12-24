@@ -1,0 +1,16 @@
+{
+  "name": "node-express-railway",
+  "version": "1.0.0",
+  "description": "A simple Hello World application using Express, suitable for hosting on Railway.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "license": "MIT"
+}
